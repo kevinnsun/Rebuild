@@ -10,3 +10,5 @@ As leader, you have to endure the hardships of this broken world.
 Good Luck. 
 
 Developers: Kevin Sun, Max Zhang, Cindy Hou
+
+Game is inspired by: http://www.kongregate.com/games/sarahnorthway/rebuild
