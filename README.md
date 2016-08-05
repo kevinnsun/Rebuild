@@ -8,3 +8,5 @@ As you fend of zombie attacks by training soldiers you also must make sure you h
 As leader, you have to endure the hardships of this broken world. 
 
 Good Luck. 
+
+Developers: Kevin Sun, Max Zhang, Cindy Hou
